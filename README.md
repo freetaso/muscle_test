@@ -1,9 +1,9 @@
 ## dockerの導入について
 1, install.shがあるフォルダに行き、以下のコマンドをを実行するとインストールできる。
 ```
-2, source install.sh
+source install.sh
 ```
-その後再起動
+2, その後再起動
 
 ## 構築手順
 1, projectを作成
