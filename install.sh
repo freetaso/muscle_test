@@ -4,14 +4,6 @@
 sudo apt update
 sudo apt upgrade -y
 
-# gitのインストール
-sudo apt install -y git-all
-
-# gitに必要なパッケージをインストール
-sudo apt install curl -y
-sudo apt install apt-transport-https -y
-
-
 # Dockerのインストール
 # Docker Enginをインストール
 # 1, Docker公式GPG鍵を追加
