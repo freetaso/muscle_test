@@ -1,3 +1,5 @@
+<span style="color: red; ">赤文字</span>
+
 ## dockerの導入について
 1, install.shがあるフォルダに行き、以下のコマンドを実行してインストール。
 ```
